@@ -1,6 +1,6 @@
-Hi, Mayank Gupta
-Assurance Associate (India) | Data Analytics | Ind AS | SQL • Excel • Power BI
-I use data to make audits faster, sharper, and more reliable—combining Ind AS understanding with analytics-driven testing, anomaly detection, and clean reporting.
+Hi, Mayank Gupta.
+- Assurance Associate (India) | Data Analytics | Ind AS | SQL • Excel • Power BI
+- I use data to make audits faster, sharper, and more reliable—combining Ind AS understanding with analytics-driven testing, anomaly detection, and clean reporting.
 
 🔎 What I Do
 1. Assurance & Audit (India): Risk assessment, internal controls, working papers, Ind AS-aligned procedures
