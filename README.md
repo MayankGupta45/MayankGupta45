@@ -1,4 +1,4 @@
-Hi, Mayank Gupta.
+Hi, I am  Mayank Gupta.
 - Assurance Associate (India) | Data Analytics | Ind AS | SQL • Excel • Power BI
 - I use data to make audits faster, sharper, and more reliable—combining Ind AS understanding with analytics-driven testing, anomaly detection, and clean reporting.
 
